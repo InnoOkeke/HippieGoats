@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xBc9ecd7c9fc20591fAC717CEaDA8Cf41b096c654",
-  "SCAN_LINK": "https://testnet.bscscan.com/token/0xBc9ecd7c9fc20591fAC717CEaDA8Cf41b096c654",
+  "CONTRACT_ADDRESS": "0x75c1579bb03bea783a2d0699518a99112e0672fc",
+  "SCAN_LINK": "https://bscscan.com/token/0x75c1579bb03bea783a2d0699518a99112e0672fc",
   "NETWORK": {
     "NAME": "BNB Chain",
     "SYMBOL": "BNB",
-    "ID": 97
+    "ID": 25
   },
   "NFT_NAME": "Hippie Goats NFT",
   "SYMBOL": "HG",
