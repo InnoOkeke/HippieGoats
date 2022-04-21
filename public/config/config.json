@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 2500,
   "WEI_COST": 200000000000000000,
   "DISPLAY_COST": 0.2,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 125000,
   "MARKETPLACE": "TofuNFT",
   "MARKETPLACE_LINK": "https://tofunft.com/hippiegoats",
   "SHOW_BACKGROUND": true
